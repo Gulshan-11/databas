@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My second blog",
+      "body": "Pollution caused by man is the most significant reason for the environment’s degradation. Water, land, soil, and noise pollution are toxic to the environment. Throwing out garbage here and there, washing clothes and dishes in the pond and river water using chemical soap causes water pollution. As a result, the creatures living in the water end up dying..",
+      "author": "Abcde",
+      "id": 2
+    },
+    {
+      "title": "My third blog",
+      "body": "The increase in vehicles on the road causes air pollution. It causes a spike in gases like CO2 and SO2 (greenhouse gases) that cause acid rain, which destroys buildings and monuments. Continuous honking on the roads by vehicles results in noise pollution. Pollution does not only affect the environment but also harms us. It affects our health and causes various cardiac and respiratory diseases. If environmental pollution is not controlled, living on earth will become tougher, and finally, it will lead to the destruction of humankind",
+      "author": "Fghij",
+      "id": 3
+    }
+  ]
+}
